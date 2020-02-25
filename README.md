@@ -1,5 +1,5 @@
 # Employee-management-system
-Details regarding all the employees of a company can be stored in a structured manner.  #coded in C++.#
+Details regarding all the employees of a company can be stored in a structured manner.  #coded in C++.
 #### A mini project in C++ to store the general information of the employees of a company using structure.  
 
 ## Requirements:  
