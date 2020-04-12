@@ -7,7 +7,7 @@ Details regarding all the employees of a company can be stored in a structured m
 2. or any IDE like Code Blocks etc...  
 
 ## Steps:  
-1.compile the given employee_management.cpp file. 
+1.compile the given employee_management.cpp file  
 2.Run the same file.
 
 ##### Note:  
